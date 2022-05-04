@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import openai
 
-#openai.api_key = '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'
+#openai.api_key = 'Your Key'
 
 st.title('Ad from product description')
 def add(qurey,campain):
