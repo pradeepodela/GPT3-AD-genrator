@@ -1,6 +1,10 @@
 # GPT3-AD-genrator
 
 
+https://user-images.githubusercontent.com/72432569/166696546-2b097d76-7682-40a1-800e-da9900efb17a.mp4
+
+
+
 ## Step 1
 ### Clone the project 
 
